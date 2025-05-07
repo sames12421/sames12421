@@ -1,27 +1,27 @@
-# 👋 Hey there! I'm [@sames12421](https://github.com/sames12421) 
+# 👋 Hey there! I'm [@sames12421](https://github.com/sames12421)  
 
 ✨ Welcome to my GitHub! Here’s a little about me:
 
 ## 👀 What I’m interested in:
-- 🚀 Exploring new technologies, especially in the fields of **Data Science**, **AI**, and **IoT**.
-- 🔍 Diving deep into coding languages like Python, R, and JavaScript to create innovative solutions.
+- 🤖 Exploring the world of **Artificial Intelligence** and **Machine Learning**.
+- 🔍 Diving deep into **AI algorithms**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Data Science** to build innovative solutions.
 
 ## 🌱 What I’m currently learning:
-- 📚 Mastering **Machine Learning** algorithms and **Deep Learning** frameworks.
-- 💻 Getting hands-on with **Cloud Computing** platforms like AWS and Azure.
+- 📚 Mastering **Machine Learning** techniques and frameworks like TensorFlow, PyTorch, and scikit-learn.
+- 🧠 Delving into **Deep Learning** and **Neural Networks** to solve complex real-world problems.
+- 💻 Gaining hands-on experience with **Cloud Computing** platforms such as AWS and Azure to deploy scalable AI solutions.
 
 ## 💞️ Let’s Collaborate!
-- 🤝 I’m looking to collaborate on **open-source projects** related to **Data Science**, **AI**, or anything tech-related!
-- 🧑‍💻 If you’re working on something cool, let’s chat and brainstorm together!
+- 🤝 I’m looking to collaborate on **open-source AI/ML projects**, **Machine Learning**, or anything tech-related!
+- 🧑‍💻 If you're working on something exciting, let's connect and share ideas!
 
 ## 📫 How to reach me:
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💬 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 Email: [retujawalkars@gmail.com](retujawalkars@gmail.com)
+- 💬 Instagram: [@Sames12421](https://instagram//sames12421.com)
+- 🌐 LinkedIn: [Ritu J ]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ritu-jawalkar-0a51b4288))
 
 ## 😄 Pronouns:
 - He/Him | She/Her | They/Them (choose the one that fits you!)
 
 ## ⚡ Fun Fact:
-- I once solved a coding challenge in under 15 minutes while drinking coffee – my secret fuel! ☕
-
+- I once solved a complex AI/ML problem in under 15 minutes while sipping coffee – my secret fuel! ☕  
